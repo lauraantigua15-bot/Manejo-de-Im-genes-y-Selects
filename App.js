@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// Importamos las dos imágenes desde src/assets
 import bannerImg from './assets/banner.jpg';
 import fotoImg from './assets/foto.jpg';
 
